@@ -1,0 +1,2 @@
+https://generator.cloudapp.aigner.online/generic/healthiness/details?lane=Customer&domain=Customer%20Experience&team=Product&capability=Provide%20product%20Product%20Aggregator&feature=Full-load%20endpoints%20(rest)%20(disaster-recovery)%20(including%20metadata%20(detail/gridbox))&business_healthiness_endpoint=true
+https://generator.cloudapp.aigner.online/0/healthiness/value

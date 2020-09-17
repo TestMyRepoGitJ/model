@@ -1,0 +1,10 @@
+https://generator.cloudapp.aigner.online/3/healthiness/details
+https://generator.cloudapp.aigner.online/3/healthiness/value
+https://generator.cloudapp.aigner.online/3/latency/details
+https://generator.cloudapp.aigner.online/3/latency/value
+https://generator.cloudapp.aigner.online/3/traffic/details
+https://generator.cloudapp.aigner.online/3/traffic/value
+https://generator.cloudapp.aigner.online/3/error/details
+https://generator.cloudapp.aigner.online/3/error/value
+https://generator.cloudapp.aigner.online/3/saturation/details
+https://generator.cloudapp.aigner.online/3/saturation/value

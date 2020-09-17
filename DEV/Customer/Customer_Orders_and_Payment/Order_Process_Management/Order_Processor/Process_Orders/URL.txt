@@ -1,0 +1,2 @@
+/generic/healthiness/details?lane=Customer&domain=Customer%20Orders%20and%20Payment&team=Order%20Process%20Management&capability=Order%20Processor&feature=Process%20Orders&business_critical=true&business_healthiness_endpoint=true
+https://generator.cloudapp.aigner.online/0/healthiness/value

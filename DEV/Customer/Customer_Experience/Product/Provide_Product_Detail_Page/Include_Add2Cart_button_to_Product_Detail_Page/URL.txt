@@ -1,0 +1,2 @@
+/generic/healthiness/details?lane=Customer&domain=Customer%20Experience&team=Product&capability=Provide%20Product%20Detail%20Page&feature=Include%20Add2Cart%20button%20to%20Product%20Detail%20Page&business_critical=true&business_healthiness_endpoint=true
+https://generator.cloudapp.aigner.online/0/healthiness/value

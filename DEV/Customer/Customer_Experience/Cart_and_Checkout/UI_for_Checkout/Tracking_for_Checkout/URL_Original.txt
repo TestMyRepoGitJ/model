@@ -1,0 +1,2 @@
+https://generator.cloudapp.aigner.online/generic/healthiness/details?lane=Customer&domain=Customer%20Experience&team=Cart%20and%20Checkout&capability=UI%20for%20Checkout&feature=Tracking%20for%20Checkout&business_healthiness_endpoint=true
+https://generator.cloudapp.aigner.online/3/healthiness/value

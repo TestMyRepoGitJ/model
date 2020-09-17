@@ -1,0 +1,2 @@
+https://generator.cloudapp.aigner.online/generic/healthiness/details?lane=Customer&domain=Customer%20Experience&team=Navigate&capability=Enable%20the%20content%20manager%20to%20manage%20the%20navigation&feature=Enable%20the%20content%20manager%20to%20manage%20assets%20-%20VIEW%20(tmp%20check)&business_critical=false&business_healthiness_endpoint=true
+https://generator.cloudapp.aigner.online/2/healthiness/value

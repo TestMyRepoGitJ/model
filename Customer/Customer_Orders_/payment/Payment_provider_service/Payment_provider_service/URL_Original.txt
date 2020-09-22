@@ -1,0 +1,2 @@
+http://tux1659.int.secrz.com:8028/generic/healthiness/details?lane=Customer&domain=Customer%20Orders%20&team=payment&capability=Payment%20provider%20service&feature=Payment%20provider%20service&business_healthiness_endpoint=true
+http://tux1659.int.secrz.com:8028/1/healthiness/value

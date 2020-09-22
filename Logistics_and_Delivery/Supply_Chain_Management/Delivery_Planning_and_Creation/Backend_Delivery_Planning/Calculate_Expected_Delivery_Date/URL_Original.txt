@@ -1,0 +1,2 @@
+http://tux1659.int.secrz.com:8028/generic/healthiness/details?lane=Logistics%20and%20Delivery&domain=Supply%20Chain%20Management&team=Delivery%20Planning%20and%20Creation&capability=Backend%20Delivery%20Planning&feature=Calculate%20Expected%20Delivery%20Date&business_healthiness_endpoint=true
+http://tux1659.int.secrz.com:8028/0/healthiness/value

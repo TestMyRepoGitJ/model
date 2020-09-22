@@ -1,2 +1,0 @@
-/generic/healthiness/details?lane=Customer&domain=Customer%20Experience&team=Cart%20and%20Checkout&capability=Provide%20Checkout-Address%20api&feature=Interact%20with%20Addresses%20in%20Checkout&business_critical=true&business_healthiness_endpoint=true
-https://generator.cloudapp.aigner.online/0/healthiness/value

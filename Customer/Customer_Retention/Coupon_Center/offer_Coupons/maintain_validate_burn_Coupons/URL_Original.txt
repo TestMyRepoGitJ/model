@@ -1,2 +1,0 @@
-https://generator.cloudapp.aigner.online/generic/healthiness/details?lane=Customer&domain=Customer%20Retention&team=Coupon%20Center&capability=offer%20Coupons&feature=maintain,%20validate,%20burn%20Coupons&business_healthiness_endpoint=true
-https://generator.cloudapp.aigner.online/3/healthiness/value

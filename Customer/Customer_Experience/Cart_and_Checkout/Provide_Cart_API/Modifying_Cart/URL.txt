@@ -1,2 +1,0 @@
-/generic/healthiness/details?lane=Customer&domain=Customer%20Experience&team=Cart%20and%20Checkout&capability=Provide%20Cart-API&feature=Modifying%20Cart&business_critical=true&business_healthiness_endpoint=false
-https://generator.cloudapp.aigner.online/actuator/health

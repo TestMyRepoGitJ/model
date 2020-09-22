@@ -1,2 +1,0 @@
-/generic/healthiness/details?lane=Customer&domain=Customer%20Experience&team=Product&capability=Provide%20Product%20SEO%20Exporter&feature=Sitemap%20xml(s)&business_critical=true&business_healthiness_endpoint=true
-https://generator.cloudapp.aigner.online/0/healthiness/value

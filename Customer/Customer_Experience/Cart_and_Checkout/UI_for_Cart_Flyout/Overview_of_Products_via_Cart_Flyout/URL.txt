@@ -1,2 +1,0 @@
-/generic/healthiness/details?lane=Customer&domain=Customer%20Experience&team=Cart%20and%20Checkout&capability=UI%20for%20Cart%20Flyout&feature=Overview%20of%20Products%20via%20Cart%20Flyout&business_critical=true&business_healthiness_endpoint=true
-https://generator.cloudapp.aigner.online/1/healthiness/value

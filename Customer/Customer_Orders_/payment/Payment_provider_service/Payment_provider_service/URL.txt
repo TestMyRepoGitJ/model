@@ -1,2 +1,0 @@
-/generic/healthiness/details?lane=Customer&domain=Customer%20Orders%20&team=payment&capability=Payment%20provider%20service&feature=Payment%20provider%20service&business_critical=true&business_healthiness_endpoint=true
-https://generator.cloudapp.aigner.online/1/healthiness/value

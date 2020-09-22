@@ -1,2 +1,2 @@
-http://localhost:8080/generic/healthiness/details?lane=Customer&domain=Customer%20Experience&team=Navigate&capability=Enable%20the%20content%20manager%20to%20manage%20the%20navigation&feature=Provide%20the%20Productcategory-Navigation%20to%20the%20search&business_critical=false&business_healthiness_endpoint=true
+https://generator.cloudapp.aigner.online/generic/healthiness/details?lane=Customer&domain=Customer%20Experience&team=Navigate&capability=Enable%20the%20content%20manager%20to%20manage%20the%20navigation&feature=Provide%20the%20Productcategory-Navigation%20to%20the%20search&business_critical=false&business_healthiness_endpoint=true
 https://generator.cloudapp.aigner.online/1/healthiness/value

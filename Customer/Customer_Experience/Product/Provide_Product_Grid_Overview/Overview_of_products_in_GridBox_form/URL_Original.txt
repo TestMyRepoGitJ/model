@@ -1,2 +1,2 @@
-https://generator.cloudapp.aigner.online/generic/healthiness/details?lane=Customer&domain=Customer%20Experience&team=Product&capability=Provide%20Product%20Grid%20Overview&feature=Overview%20of%20products%20in%20GridBox%20form&business_healthiness_endpoint=true
+http://localhost:8080/generic/healthiness/details?lane=Customer&domain=Customer%20Experience&team=Product&capability=Provide%20Product%20Grid%20Overview&feature=Overview%20of%20products%20in%20GridBox%20form&business_critical=true&business_healthiness_endpoint=true
 https://generator.cloudapp.aigner.online/0/healthiness/value

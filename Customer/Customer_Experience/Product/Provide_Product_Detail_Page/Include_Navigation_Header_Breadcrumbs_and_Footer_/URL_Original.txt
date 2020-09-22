@@ -1,2 +1,2 @@
-https://generator.cloudapp.aigner.online/generic/healthiness/details?lane=Customer&domain=Customer%20Experience&team=Product&capability=Provide%20Product%20Detail%20Page&feature=Include%20Navigation%20(Header%20%20%20Breadcrumbs)%20and%20Footer)&business_healthiness_endpoint=true
+http://localhost:8080/generic/healthiness/details?lane=Customer&domain=Customer%20Experience&team=Product&capability=Provide%20Product%20Detail%20Page&feature=Include%20Navigation%20(Header%20%20%20Breadcrumbs)%20and%20Footer)&business_critical=true&business_healthiness_endpoint=true
 https://generator.cloudapp.aigner.online/1/healthiness/value

@@ -1,2 +1,2 @@
-https://generator.cloudapp.aigner.online/generic/healthiness/details?lane=Customer&domain=Customer%20Experience&team=Cart%20and%20Checkout&capability=Provide%20Checkout-Address%20api&feature=Validaion%20of%20Addresses%20in%20Checkout&business_healthiness_endpoint=true
+http://localhost:8080/generic/healthiness/details?lane=Customer&domain=Customer%20Experience&team=Cart%20and%20Checkout&capability=Provide%20Checkout-Address%20api&feature=Validaion%20of%20Addresses%20in%20Checkout&business_critical=true&business_healthiness_endpoint=true
 https://generator.cloudapp.aigner.online/0/healthiness/value

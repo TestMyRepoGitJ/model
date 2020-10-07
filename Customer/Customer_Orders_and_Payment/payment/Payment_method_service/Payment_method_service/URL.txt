@@ -1,2 +1,0 @@
-/generic/healthiness/details?lane=Customer&domain=Customer%20Orders%20and%20Payment&team=payment&capability=Payment%20method%20service&feature=Payment%20method%20service&business_critical=true&business_healthiness_endpoint=false
-http://pms-api.test.odjint.schwarz/internal/health

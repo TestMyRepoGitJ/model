@@ -1,2 +1,0 @@
-/generic/healthiness/details?lane=Customer&domain=Customer%20Experience&team=Product&capability=Provide%20product%20API&feature=REST%20endpoint%20for%20Product%20Detail%20Page%20(detail%20format,%20excluding%20metadata)&business_critical=true&business_healthiness_endpoint=true
-http://tux1659.int.secrz.com:8028/2/healthiness/value

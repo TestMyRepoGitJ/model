@@ -1,2 +1,0 @@
-http://tux1659.int.secrz.com:8028/generic/healthiness/details?lane=Customer&domain=Customer%20Retention&team=Coupon%20Center&capability=offer%20Coupons&feature=maintain,%20validate,%20burn%20Coupons&business_healthiness_endpoint=true
-http://tux1659.int.secrz.com:8028/3/healthiness/value

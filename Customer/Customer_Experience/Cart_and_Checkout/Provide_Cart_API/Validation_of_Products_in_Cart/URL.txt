@@ -1,2 +1,0 @@
-/generic/healthiness/details?lane=Customer&domain=Customer%20Experience&team=Cart%20and%20Checkout&capability=Provide%20Cart-API&feature=Validation%20of%20Products%20in%20Cart&business_critical=true&business_healthiness_endpoint=true
-http://tux1659.int.secrz.com:8028/3/healthiness/value

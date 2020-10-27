@@ -1,2 +1,0 @@
-http://localhost:8080/2/healthiness/details
-http://bla.bla.odj.cloud/2/healthiness/value

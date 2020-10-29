@@ -1,2 +1,0 @@
-http://localhost:8080/6/healthiness/details
-http://localhost:8080/6/healthiness/value?api_key=ljdskdkhdfjkghajkgh
